@@ -1,4 +1,4 @@
-# wabot-aq
+# RULZT-17
 
 Simple WhatsApp Bot
 
